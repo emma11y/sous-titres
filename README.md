@@ -39,11 +39,10 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - Subtitle WorkShop
 - Subtitle Edit
 - Aegisub
+- [Amara](https://amara.org/fr/)
 
 #### Payant
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/working-with-captions.html)
-- [Amara](https://amara.org/fr/)
-
 
 ## Outils pour sous-titrer des podcasts
 
