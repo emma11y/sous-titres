@@ -6,7 +6,7 @@ Ce document a pour vocation d'aider les personnes à sous-titrer leurs vidéos e
 
 Tout d'abord, je vous invite à lire un article que j'ai écrit sur ["Comment bien sous-titrer les vidéos" en 2019](https://www.24joursdeweb.fr/2019/comment-bien-sous-titrer-les-videos/) qui est toujours d'actualité hormis la partie sous-titrage communautaire. En effet, YouTube a supprimé la possibilité de contribuer, ce qui fait que seul le propriétaire de la vidéo doit sous-titrer. 
 
-Aujourd'hui, vous avez la possibilité sur plusieurs logiciels d'utiliser le sous-titrage automatique. Comme je vous l'ai expliqué dans mon article, les sous-titres automatiques ne sont pas fiables à 100%. Il faut donc repasser derrière ##pour corriger les erreurs générées par la reconnaissance vocale##.
+Aujourd'hui, vous avez la possibilité sur plusieurs logiciels d'utiliser le sous-titrage automatique. Comme je vous l'ai expliqué dans mon article, les sous-titres automatiques ne sont pas fiables à 100%. Il faut donc repasser derrière __pour corriger les erreurs générées par la reconnaissance vocale__.
 Les sous-titres automatiques vous permettent de gagner du temps car sous-titrer soi-même et synchroniser prend énormément de temps. C'est pourquoi utiliser l'outil automatique aide à condition de corriger par la suite.
 
 Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes pratiques du sous-titrage.
@@ -14,7 +14,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 ## Ressources
 
 - [Liste de bonnes pratiques du sous-titrage par Knarf18](https://github.com/knarf18/Bonnes-pratiques-du-sous-titrage/blob/master/Liste%20de%20bonnes%20pratiques.md)
-- [Sous-titres et transcription pour les vidéos et podcasts par LesMaEntendus](https://twitter.com/LesMalEntendus/status/1326230657119481856?s=20)
+- [Sous-titres et transcription pour les vidéos et podcasts par LesMalEntendus](https://twitter.com/LesMalEntendus/status/1326230657119481856?s=20)
 
 ## Outils pour sous-titrer les vidéos
 
