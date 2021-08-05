@@ -49,8 +49,24 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 - [Headliner](https://www.headliner.app/) (EN)
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
-- [Parlatype](https://www.parlatype.org/)
+- [Parlatype](https://www.parlatype.org/) (EN)
 
+## Outils ou prestataires quand on donne une conférence en ligne
+
+### Sous-titrage automatique
+
+- [Microsoft PowerPoint](https://support.microsoft.com/fr-fr/office/pr%C3%A9sentez-avec-des-l%C3%A9gendes-ou-des-sous-titres-automatiques-et-en-temps-r%C3%A9eldans-powerpoint-68d20e49-aec3-456a-939d-34a79e8ddd5f) : vous pouvez activer les sous-titres automatiques lors de votre présentation avec PowerPoint
+
+### Prestataires
+
+#### Sous-titrage en temps-réel
+- [Voxa Direct](https://www.voxadirect.com/) - Vélotypie
+- [System RISP](https://www.systemerisp.com/) - Vélotypie
+- [Tadéo](https://new.tadeo.fr/)
+
+#### Sous-titrage automatique
+
+- [AVA](https://fr.ava.me/) (Possibilité d'avoir un scribe pour corriger les sous-titres en temps-réel)
 
 ## Outils pour suivre les conférences en ligne ou conversations
 
