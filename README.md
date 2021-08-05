@@ -38,6 +38,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 #### Gratuit
 - Subtitle WorkShop
 - Subtitle Edit
+- Aegisub
 
 #### Payant
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/working-with-captions.html)
@@ -48,6 +49,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 - [Headliner](https://www.headliner.app/) (EN)
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
+- [Parlatype](https://www.parlatype.org/)
 
 
 ## Outils pour suivre les conférences en ligne ou conversations
