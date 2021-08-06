@@ -39,10 +39,12 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - Subtitle WorkShop
 - Subtitle Edit
 - Aegisub
-- [Amara](https://amara.org/fr/)
+- [Amara Public](https://amara.org/fr/)
+- [Gaupol](https://otsaloma.io/gaupol/) (EN)
 
 #### Payant
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/working-with-captions.html)
+- [Amara Pro](https://amara.org/fr/)
 
 ## Outils pour sous-titrer des podcasts
 
@@ -62,14 +64,15 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Voxa Direct](https://www.voxadirect.com/) - Vélotypie
 - [System RISP](https://www.systemerisp.com/) - Vélotypie
 - [Tadéo](https://new.tadeo.fr/)
+- [Le Messageur](https://www.lemessageur.com/)
 
 #### Sous-titrage automatique
 
-- [AVA](https://fr.ava.me/) (Possibilité d'avoir un scribe pour corriger les sous-titres en temps-réel)
+- [AVA](https://fr.ava.me/) : il y a possibilité d'avoir un scribe pour corriger les sous-titres en temps-réel
 
 ## Outils pour suivre les conférences en ligne ou conversations
 
-- [WebCaptionner](https://webcaptioner.com/)
+- [WebCaptionner](https://webcaptioner.com/) (EN)
 - [Microsoft Translator](https://translator.microsoft.com/)
 - [AVA](https://fr.ava.me/)
 
