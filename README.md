@@ -26,6 +26,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Microsoft Stream](https://support.microsoft.com/fr-fr/office/microsoft-stream-cr%C3%A9e-automatiquement-des-sous-titres-pour-les-vid%C3%A9os-8d6ac353-9ff2-4e2b-bca1-329499455308)
 - [MixCaptions (EN)](https://www.mixcord.co/pages/mixcaptions) (Application pour IOS et Android pour sous-titrer vos vidéos sur votre mobile) dont voici le [tutoriel](https://www.youtube.com/watch?v=TeX0_4TGHa8) 
 - [Kdenlive](https://kdenlive.org/fr/) dont la [fonctionnalité Speech to text (EN)](https://kdenlive.org/en/2021/04/kdenlive-21-04-released) est disponible depuis avril 2021 
+- [Kapwing](https://www.kapwing.com/subtitles) (EN)
 
 #### Payant
 
@@ -33,6 +34,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Authôt](https://www.authot.com/fr/) : Authôt sous-titre pour vous
 - [Capté](https://getcapte.com/fr/) : gratuit seulement pour 5 minutes de vidéos
 - [CheckSub](https://www.checksub.com/fr)
+- [AmberScript](https://www.amberscript.com/fr/) : fonctionnalité de sous-titrage automatique
 
 ### Liste des outils existants avec sous-titrage manuel
 #### Gratuit
@@ -41,16 +43,30 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - Aegisub
 - [Amara Public](https://amara.org/fr/)
 - [Gaupol](https://otsaloma.io/gaupol/) (EN)
+- [VisualSubSynchro](https://www.visualsubsync.org/fr/home)
 
 #### Payant
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/working-with-captions.html)
 - [Amara Pro](https://amara.org/fr/)
+- [AmberScript](https://www.amberscript.com/fr/) : fonctionnalité de sous-titrage manuel
 
 ## Outils pour sous-titrer des podcasts
 
 - [Headliner](https://www.headliner.app/) (EN)
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
 - [Parlatype](https://www.parlatype.org/) (EN)
+
+## Outils pour faire de la (re)transcription écrite
+
+### Gratuit
+
+- [Word et sa fonction Dictée vocale](https://support.microsoft.com/fr-fr/office/dicter-du-texte-%C3%A0-l-aide-de-la-reconnaissance-vocale-05725ee2-ae2e-438f-847c-b80e754eb50b)
+- [Google Docs et sa fonction Saisie vocale](https://support.google.com/a/users/answer/9308956?hl=fr)
+
+### Payant
+
+- [Le Scribe Audio](https://lescribeaudio.com/) 
+- [AmberScript](https://www.amberscript.com/fr/) : fonctionnalité de transcription automatique ou manuel
 
 ## Outils ou prestataires quand on donne une conférence en ligne
 
@@ -69,6 +85,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 #### Sous-titrage automatique
 
 - [AVA](https://fr.ava.me/) : il y a possibilité d'avoir un scribe pour corriger les sous-titres en temps-réel
+- [Scribovox](https://www.scribovox.fr/)
 
 ## Outils pour suivre les conférences en ligne ou conversations
 
