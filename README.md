@@ -65,9 +65,9 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 ### Payant
 
+- [Authôt](https://www.authot.com/fr)
 - [Le Scribe Audio](https://lescribeaudio.com/) 
 - [AmberScript](https://www.amberscript.com/fr/) : fonctionnalité de transcription automatique ou manuel
-- [Authôt](https://www.authot.com/fr)
 
 ## Outils ou prestataires quand on donne une conférence en ligne
 
