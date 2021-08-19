@@ -15,6 +15,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 - [Liste de bonnes pratiques du sous-titrage par Knarf18](https://github.com/knarf18/Bonnes-pratiques-du-sous-titrage/blob/master/Liste%20de%20bonnes%20pratiques.md)
 - [Sous-titres et transcription pour les vidéos et podcasts par LesMalEntendus](https://twitter.com/LesMalEntendus/status/1326230657119481856?s=20)
+- [Règle Opquast n° 116 - Chaque contenu audio et vidéo est accompagné de sa transcription textuelle.](https://checklists.opquast.com/fr/assurance-qualite-web/chaque-contenu-audio-et-video-est-accompagne-de-sa-transcription-textuelle?utm_source=dlvr.it&utm_medium=twitter)
 
 ## Outils pour sous-titrer les vidéos
 
@@ -62,6 +63,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 - [Word et sa fonction Dictée vocale](https://support.microsoft.com/fr-fr/office/dicter-du-texte-%C3%A0-l-aide-de-la-reconnaissance-vocale-05725ee2-ae2e-438f-847c-b80e754eb50b)
 - [Google Docs et sa fonction Saisie vocale](https://support.google.com/a/users/answer/9308956?hl=fr)
+- [Live Transcribe](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe&hl=fr&gl=FR) : Uniquement sur Android
 
 ### Payant
 
