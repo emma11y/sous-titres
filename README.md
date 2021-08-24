@@ -56,6 +56,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Headliner](https://www.headliner.app/) (EN)
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
 - [Parlatype](https://www.parlatype.org/) (EN)
+- [Acast](https://www.acast.com/fr/) - Transcription automatique proposée dans l'offre Pro à 29,99 $
 
 ## Outils pour faire de la (re)transcription écrite
 
