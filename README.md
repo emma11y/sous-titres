@@ -25,17 +25,18 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 - [YouTube](https://support.google.com/youtube/answer/6373554?hl=fr)
 - [Microsoft Stream](https://support.microsoft.com/fr-fr/office/microsoft-stream-cr%C3%A9e-automatiquement-des-sous-titres-pour-les-vid%C3%A9os-8d6ac353-9ff2-4e2b-bca1-329499455308)
-- [MixCaptions (EN)](https://www.mixcord.co/pages/mixcaptions) (Application pour IOS et Android pour sous-titrer vos vidéos sur votre mobile) dont voici le [tutoriel](https://www.youtube.com/watch?v=TeX0_4TGHa8) 
-- [Kdenlive](https://kdenlive.org/fr/) dont la [fonctionnalité Speech to text (EN)](https://kdenlive.org/en/2021/04/kdenlive-21-04-released) est disponible depuis avril 2021 
+- [MixCaptions (EN)](https://www.mixcord.co/pages/mixcaptions) - Application pour IOS et Android pour sous-titrer vos vidéos sur votre mobile dont voici le [tutoriel](https://www.youtube.com/watch?v=TeX0_4TGHa8) 
+- [Kdenlive](https://kdenlive.org/fr/) - La [fonctionnalité Speech to text (EN)](https://kdenlive.org/en/2021/04/kdenlive-21-04-released) est disponible depuis avril 2021 
 - [Kapwing](https://www.kapwing.com/subtitles) (EN)
+- [Video Indexer de Microsoft](https://www.videoindexer.ai/) - Payant après un volume de 10 heures traité en essai gratuit avec un compte Microsoft permettant de faire le sous-titrage automatique des fichiers vidéos dont voici [la documentation en anglais](https://docs.microsoft.com/en-gb/azure/azure-video-analyzer/video-analyzer-for-media-docs/multi-language-identification-transcription)
 
 #### Payant
 
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/speech-to-text.html)
 - [Authôt](https://www.authot.com/fr/) : Authôt sous-titre pour vous
-- [Capté](https://getcapte.com/fr/) : gratuit seulement pour 5 minutes de vidéos
+- [Capté](https://getcapte.com/fr/) : Gratuit seulement pour 5 minutes de vidéos
 - [CheckSub](https://www.checksub.com/fr)
-- [AmberScript](https://www.amberscript.com/fr/) : fonctionnalité de sous-titrage automatique
+- [AmberScript](https://www.amberscript.com/fr/) : Fonctionnalité de sous-titrage automatique
 
 ### Liste des outils existants avec sous-titrage manuel
 #### Gratuit
@@ -49,7 +50,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 #### Payant
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/working-with-captions.html)
 - [Amara Pro](https://amara.org/fr/)
-- [AmberScript](https://www.amberscript.com/fr/) : fonctionnalité de sous-titrage manuel
+- [AmberScript](https://www.amberscript.com/fr/) : Fonctionnalité de sous-titrage manuel
 
 ## Outils pour sous-titrer des podcasts
 
@@ -57,6 +58,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
 - [Parlatype](https://www.parlatype.org/) (EN)
 - [Acast](https://www.acast.com/fr/) - Transcription automatique proposée dans l'offre Pro à 29,99 $
+- [Video Indexer de Microsoft](https://www.videoindexer.ai/) - Payant après un volume de 10 heures traité en essai gratuit avec un compte Microsoft permettant de faire la transcription automatique des fichiers audios (dont voici [la documentation en anglais](https://docs.microsoft.com/en-gb/azure/azure-video-analyzer/video-analyzer-for-media-docs/multi-language-identification-transcription)
 
 ## Outils pour faire de la (re)transcription écrite
 
@@ -70,7 +72,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 - [Authôt](https://www.authot.com/fr)
 - [Le Scribe Audio](https://lescribeaudio.com/) 
-- [AmberScript](https://www.amberscript.com/fr/) : fonctionnalité de transcription automatique ou manuel
+- [AmberScript](https://www.amberscript.com/fr/) : Fonctionnalité de transcription automatique ou manuel
 
 ## Outils ou prestataires quand on donne une conférence en ligne
 
@@ -85,6 +87,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [System RISP](https://www.systemerisp.com/) - Vélotypie
 - [Tadéo](https://new.tadeo.fr/)
 - [Le Messageur](https://www.lemessageur.com/)
+- [Visuel Vox](https://www.visuel-vox.com/)
 
 #### Sous-titrage automatique
 
@@ -96,6 +99,11 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [WebCaptionner](https://webcaptioner.com/) (EN)
 - [Microsoft Translator](https://translator.microsoft.com/)
 - [AVA](https://fr.ava.me/)
+
+## Autres outils
+
+- [Aeneas, logiciel de synchronisation automatique](https://github.com/readbeyond/aeneas)
+-- Note de [Ludovic](https://github.com/emma11y/sous-titres/issues/1#issue-978844300) : "Pas évident à prendre en main, logiciel en ligne de commande mais une [webapp](https://aeneasweb.org/) existe. Donne de bons résultats pour le "dégrossissage" si les audios ne comportent que des voix (ou presque)"
 
 ## Bonus
 
