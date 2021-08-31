@@ -113,4 +113,6 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 ## Conclusion
 
+Vous pouvez consulter la liste des vidéos et podcasts sous-titrés répertoriés par LesMalentendus : [https://alexeal.github.io/lme/](https://alexeal.github.io/lme/)
+
 Si vous connaissez d'autres outils, n'hésitez pas à me le faire savoir pour enrichir ce document.
