@@ -54,11 +54,15 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 
 ## Outils pour sous-titrer des podcasts
 
+Les outils sont, la plupart d'entre eux, en anglais mais proposent de la transcription automatique en français avec un essai gratuit.
+
 - [Headliner](https://www.headliner.app/) (EN)
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
 - [Parlatype](https://www.parlatype.org/) (EN)
 - [Acast](https://www.acast.com/fr/) - Transcription automatique proposée dans l'offre Pro à 29,99 $
 - [Video Indexer de Microsoft](https://www.videoindexer.ai/) - Payant après un volume de 10 heures traité en essai gratuit avec un compte Microsoft permettant de faire la transcription automatique des fichiers audios (dont voici [la documentation en anglais](https://docs.microsoft.com/en-gb/azure/azure-video-analyzer/video-analyzer-for-media-docs/multi-language-identification-transcription)
+- [Decrypt](https://www.descript.com/transcription) (EN)
+- [Speak.ai](https://speakai.co/) (EN)
 
 ## Outils pour faire de la (re)transcription écrite
 
@@ -100,6 +104,15 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Microsoft Translator](https://translator.microsoft.com/)
 - [AVA](https://fr.ava.me/)
 
+
+## Outils pour streamer sur Twitch en live avec les sous-titres
+
+GeckoEssence explique [dans sa vidéo YouTube](https://www.youtube.com/watch?v=PZXkNFltVbU) comment streamer sur Twitch en live avec les sous-titres.
+
+- [PubNub](https://www.pubnub.com/developers/twitch-tv-obs-subtitles/) (EN)
+- [Plug in OBS](https://github.com/ratwithacompiler/OBS-captions-plugin) (EN)
+- Extension Twitch "Closed Captions for streams" via le Tableau de bord des créateurs, onglet "Extensions" dont [voici la documentation en anglais](https://help.twitch.tv/s/article/guide-to-closed-captions?language=en_US)
+
 ## Autres outils
 
 - [Aeneas, logiciel de synchronisation automatique](https://github.com/readbeyond/aeneas)
@@ -114,5 +127,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 ## Conclusion
 
 Vous pouvez consulter la liste des vidéos et podcasts sous-titrés répertoriés par LesMalentendus : [https://alexeal.github.io/lme/](https://alexeal.github.io/lme/)
+
+Vous pouvez également consulter une autre liste d'outils répertoriés en anglais : [https://meryl.net/captioned-videos-complete-guide/](https://meryl.net/captioned-videos-complete-guide/#captionsoftware)
 
 Si vous connaissez d'autres outils, n'hésitez pas à me le faire savoir pour enrichir ce document.
