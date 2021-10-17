@@ -118,7 +118,7 @@ GeckoEssence explique [dans sa vidéo YouTube](https://www.youtube.com/watch?v=P
 - [Aeneas, logiciel de synchronisation automatique](https://github.com/readbeyond/aeneas)
 -- Note de [Ludovic](https://github.com/emma11y/sous-titres/issues/1#issue-978844300) : "Pas évident à prendre en main, logiciel en ligne de commande mais une [webapp](https://aeneasweb.org/) existe. Donne de bons résultats pour le "dégrossissage" si les audios ne comportent que des voix (ou presque)"
 
-# Polices à utiliser pour les sous-titres
+## Polices à utiliser pour les sous-titres
 
 Privilégiez une police sans empattement (ou sans-serif en anglais) pour une meilleure lisibilité des sous-titres. Les polices les plus accessibles sont :
 - Tahoma
