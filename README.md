@@ -29,6 +29,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Kdenlive](https://kdenlive.org/fr/) - La [fonctionnalité Speech to text (EN)](https://kdenlive.org/en/2021/04/kdenlive-21-04-released) est disponible depuis avril 2021 
 - [Kapwing](https://www.kapwing.com/subtitles) (EN)
 - [Video Indexer de Microsoft](https://www.videoindexer.ai/) - Payant après un volume de 10 heures traité en essai gratuit avec un compte Microsoft permettant de faire le sous-titrage automatique des fichiers vidéos dont voici [la documentation en anglais](https://docs.microsoft.com/en-gb/azure/azure-video-analyzer/video-analyzer-for-media-docs/multi-language-identification-transcription)
+- [Veed (EN)](https://www.veed.io/tools/auto-subtitle-generator) - Gratuit et payant sous conditions
 
 #### Payant
 
@@ -37,6 +38,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Capté](https://getcapte.com/fr/) : Gratuit seulement pour 5 minutes de vidéos
 - [CheckSub](https://www.checksub.com/fr)
 - [AmberScript](https://www.amberscript.com/fr/) : Fonctionnalité de sous-titrage automatique
+- [Veed (EN)](https://www.veed.io/tools/auto-subtitle-generator) - Gratuit et payant sous conditions
 
 ### Liste des outils existants avec sous-titrage manuel
 #### Gratuit
