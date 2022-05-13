@@ -6,6 +6,8 @@ Ce document a pour vocation d'aider les personnes à sous-titrer leurs vidéos e
 
 Tout d'abord, je vous invite à lire un article que j'ai écrit sur ["Comment bien sous-titrer les vidéos" en 2019](https://www.24joursdeweb.fr/2019/comment-bien-sous-titrer-les-videos/) qui est toujours d'actualité hormis la partie sous-titrage communautaire. En effet, YouTube a supprimé la possibilité de contribuer, ce qui fait que seul le propriétaire de la vidéo doit sous-titrer. 
 
+[Mise à jour du 13 mai 2022] YouTube a mis en place une nouvelle fonctionnalité Subtitle Editor permettant de donner des droits aux utilisateurs que vous avez choisis qu’ils puissent vous aider à sous-titrer vos vidéos. Vous pouvez consulter la [documentation (EN)](https://support.google.com/youtube/thread/159457949/collaborate-on-captions-with-the-new-%E2%80%9Csubtitle-editor%E2%80%9D-role-in-channel-permissions?hl=fr) permettant d'ajouter le rôle d'éditeur de sous-titres sur votre chaîne.
+
 Aujourd'hui, vous avez la possibilité sur plusieurs logiciels d'utiliser le sous-titrage automatique. Comme je vous l'ai expliqué dans mon article, les sous-titres automatiques ne sont pas fiables à 100%. Il faut donc repasser derrière __pour corriger les erreurs générées par la reconnaissance vocale__.
 Les sous-titres automatiques vous permettent de gagner du temps car sous-titrer soi-même et synchroniser prend énormément de temps. C'est pourquoi utiliser l'outil automatique aide à condition de corriger par la suite.
 
@@ -17,6 +19,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Sous-titres et transcription pour les vidéos et podcasts par LesMalEntendus](https://twitter.com/LesMalEntendus/status/1326230657119481856?s=20)
 - [Règle Opquast n° 116 - Chaque contenu audio et vidéo est accompagné de sa transcription textuelle.](https://checklists.opquast.com/fr/assurance-qualite-web/chaque-contenu-audio-et-video-est-accompagne-de-sa-transcription-textuelle?utm_source=dlvr.it&utm_medium=twitter)
 - [Guide du sous-titrage pour une meilleure accessibilité par Les Podcasts Accessibles](https://www.instagram.com/p/Ca1oPI0rgXs/?utm_source=ig_web_copy_link)
+- [Pourquoi le sous-titrage automatique n’est pas fiable à 100% ? Pourquoi corriger les erreurs des sous-titres automatiques ? Comment le rendre le plus efficace ?](https://twitter.com/eaboaf_/status/1506304791953264654?s=20&t=pxynF_NW-8FDT4FOYLVirA) 
 
 ## Outils pour sous-titrer les vidéos
 
@@ -61,6 +64,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 Les outils sont, la plupart d'entre eux, en anglais mais proposent de la transcription automatique en français avec un essai gratuit.
 
 - [Acast](https://www.acast.com/fr/) - Transcription automatique proposée dans l'offre Pro à 29,99 $
+- [CEMEA - un transcripteur Audio/Vidéo en Texte](https://scribe.cemea.org/) - Gratuit, il faut envoyer le fichier audio/vidéo pour avoir une transcription écrite
 - [Decrypt](https://www.descript.com/transcription) (EN)
 - [Headliner](https://www.headliner.app/) (EN)
 - [Parlatype](https://www.parlatype.org/) (EN)
@@ -72,9 +76,11 @@ Les outils sont, la plupart d'entre eux, en anglais mais proposent de la transcr
 
 ### Gratuit
 
-- [Word et sa fonction Dictée vocale](https://support.microsoft.com/fr-fr/office/dicter-du-texte-%C3%A0-l-aide-de-la-reconnaissance-vocale-05725ee2-ae2e-438f-847c-b80e754eb50b)
+- [Express Scribe - Logiciel de transcription audio](https://www.nch.com.au/scribe/fr/index.html)
 - [Google Docs et sa fonction Saisie vocale](https://support.google.com/a/users/answer/9308956?hl=fr)
 - [Live Transcribe](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe&hl=fr&gl=FR) : Uniquement sur Android
+- [Word et sa fonction Dictée vocale](https://support.microsoft.com/fr-fr/office/dicter-du-texte-%C3%A0-l-aide-de-la-reconnaissance-vocale-05725ee2-ae2e-438f-847c-b80e754eb50b)
+
 
 ### Payant
 
@@ -116,6 +122,7 @@ GeckoEssence explique [dans sa vidéo YouTube](https://www.youtube.com/watch?v=P
 - [PubNub](https://www.pubnub.com/developers/twitch-tv-obs-subtitles/) (EN)
 - [Plug in OBS](https://github.com/ratwithacompiler/OBS-captions-plugin) (EN)
 - Extension Twitch "Closed Captions for streams" via le Tableau de bord des créateurs, onglet "Extensions" dont [voici la documentation en anglais](https://help.twitch.tv/s/article/guide-to-closed-captions?language=en_US)
+- [Stream CC](https://stream-cc.gooseman.codes/) (EN)
 
 ## Autres outils
 
