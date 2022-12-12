@@ -40,6 +40,7 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/speech-to-text.html)
 - [AmberScript](https://www.amberscript.com/fr/) : Fonctionnalité de sous-titrage automatique
 - [Authôt](https://www.authot.com/fr/) : Authôt sous-titre pour vous
+- [HappyScribe](https://www.happyscribe.com/fr) : Essai gratuit
 - [Capté](https://getcapte.com/fr/) : Gratuit seulement pour 5 minutes de vidéos
 - [CheckSub](https://www.checksub.com/fr)
 - [Veed (EN)](https://www.veed.io/tools/auto-subtitle-generator) - Gratuit et payant sous conditions
@@ -53,11 +54,13 @@ Mais si vous préférez créer vous-mêmes les sous-titres, respectez les bonnes
 - Subtitle Edit
 - Subtitle WorkShop
 - [VisualSubSynchro](https://www.visualsubsync.org/fr/home)
+- [CapCut](https://www.capcut.com/) (EN)
 
 #### Payant
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/working-with-captions.html)
 - [Amara Pro](https://amara.org/fr/)
 - [AmberScript](https://www.amberscript.com/fr/) : Fonctionnalité de sous-titrage manuel
+- [HappyScribe](https://www.happyscribe.com/fr) : Essai gratuit
 
 ## Outils pour sous-titrer des podcasts
 
@@ -71,6 +74,7 @@ Les outils sont, la plupart d'entre eux, en anglais mais proposent de la transcr
 - [Video Indexer de Microsoft](https://www.videoindexer.ai/) - Payant après un volume de 10 heures traité en essai gratuit avec un compte Microsoft permettant de faire la transcription automatique des fichiers audios (dont voici [la documentation en anglais](https://docs.microsoft.com/en-gb/azure/azure-video-analyzer/video-analyzer-for-media-docs/multi-language-identification-transcription)
 - [Speak.ai](https://speakai.co/) (EN)
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
+- [Trint](https://trint.com/fr/)
 
 ## Outils pour faire de la (re)transcription écrite
 
@@ -86,7 +90,9 @@ Les outils sont, la plupart d'entre eux, en anglais mais proposent de la transcr
 
 - [Authôt](https://www.authot.com/fr)
 - [AmberScript](https://www.amberscript.com/fr/) : Fonctionnalité de transcription automatique ou manuel
-- [Le Scribe Audio](https://lescribeaudio.com/) 
+- [EoleCC](https://videomenthe-corporate.com/tarifs-eolecc/)
+- [HappyScribe](https://www.happyscribe.com/fr) : Essai gratuit
+- [Le Scribe Audio](https://lescribeaudio.com/)
 - [SousTitreur](https://soustitreur.com/)
 
 ## Outils ou prestataires quand on donne une conférence en ligne
@@ -123,6 +129,7 @@ GeckoEssence explique [dans sa vidéo YouTube](https://www.youtube.com/watch?v=P
 - [Plug in OBS](https://github.com/ratwithacompiler/OBS-captions-plugin) (EN)
 - Extension Twitch "Closed Captions for streams" via le Tableau de bord des créateurs, onglet "Extensions" dont [voici la documentation en anglais](https://help.twitch.tv/s/article/guide-to-closed-captions?language=en_US)
 - [Stream CC](https://stream-cc.gooseman.codes/) (EN)
+- [Closed Captioning OBS Plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) (EN)
 
 ## Autres outils
 
