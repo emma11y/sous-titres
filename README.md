@@ -40,6 +40,7 @@ Il est fortement déconseillé de créer des sous-titres défilant par mot à mo
 - [Video Indexer de Microsoft](https://www.videoindexer.ai/) - Payant après un volume de 10 heures traité en essai gratuit avec un compte Microsoft permettant de faire le sous-titrage automatique des fichiers vidéos dont voici [la documentation en anglais](https://docs.microsoft.com/en-gb/azure/azure-video-analyzer/video-analyzer-for-media-docs/multi-language-identification-transcription)
 - [Veed (EN)](https://www.veed.io/tools/auto-subtitle-generator) - Gratuit et payant sous conditions
 - [Whisper Webui](https://huggingface.co/spaces/aadnk/whisper-webui) (EN) - Transcription automatique gratuit mais limité jusqu'à 10 minutes d'audio ou de vidéo et génère un fichier SRT, VTT ou TXT.
+- [Gladia.io](https://gladia.io) (EN) - Transcription automatique gratuit dans 99 langues avec export TXT, SRT, VTT
 
 #### Payant
 
@@ -62,6 +63,7 @@ Il est fortement déconseillé de créer des sous-titres défilant par mot à mo
 - Subtitle WorkShop
 - [VisualSubSynchro](https://www.visualsubsync.org/fr/home)
 - [CapCut](https://www.capcut.com/) (EN)
+- [Gladia.io](https://gladia.io) (EN) - Transcription automatique gratuit dans 99 langues avec export TXT, SRT, VTT
 
 #### Payant
 - [Adobe Première Pro](https://helpx.adobe.com/ch_fr/premiere-pro/using/working-with-captions.html)
@@ -84,6 +86,7 @@ Les outils sont, la plupart d'entre eux, en anglais mais proposent de la transcr
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
 - [Trint](https://trint.com/fr/)
 - [Whisper Webui](https://huggingface.co/spaces/aadnk/whisper-webui) (EN) - Transcription automatique gratuit mais limité jusqu'à 10 minutes d'audio ou de vidéo 
+- [Gladia.io](https://gladia.io) (EN) - Transcription automatique gratuit dans 99 langues avec export TXT, SRT, VTT
 
 ## Outils pour faire de la (re)transcription écrite
 
@@ -165,6 +168,7 @@ Vous pouvez utiliser des APIs pour implémenter le Speech-To-Text (transformatio
 - [Microsoft](https://learn.microsoft.com/fr-fr/azure/cognitive-services/speech-service/get-started-speech-to-text?tabs=windows%2Cterminal&pivots=programming-language-csharp)
 - [Mozilla](https://developer.mozilla.org/fr/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API) - EN
 - [Whisper](https://openai.com/research/whisper) - EN
+- [Gladia.io](https://gladia.io) (EN) - Transcription automatique gratuit dans 99 langues avec export TXT, SRT, VTT
 
 Je l'explique dans un article en deux parties comment le faire avec Angular.
 - [Partie 1](https://blog.dcube.fr/index.php/2022/09/09/comment-implementer-speech-to-text-avec-4-apis-en-angular-1-2/)
