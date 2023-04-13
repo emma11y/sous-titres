@@ -58,7 +58,7 @@ Il est fortement déconseillé de créer des sous-titres défilant par mot à mo
 - Aegisub
 - [Amara Public](https://amara.org/fr/)
 - [Gaupol](https://otsaloma.io/gaupol/) (EN)
-- Subtitle Edit
+- [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases)
 - Subtitle WorkShop
 - [VisualSubSynchro](https://www.visualsubsync.org/fr/home)
 - [CapCut](https://www.capcut.com/) (EN)
