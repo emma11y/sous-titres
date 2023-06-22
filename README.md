@@ -83,7 +83,8 @@ Les outils sont, la plupart d'entre eux, en anglais mais proposent de la transcr
 - [Speak.ai](https://speakai.co/) (EN)
 - [Sonai.ai](https://sonix.ai/) (EN) - Gratuit pour 30 minutes d'audio
 - [Trint](https://trint.com/fr/)
-- [Whisper Webui](https://huggingface.co/spaces/aadnk/whisper-webui) (EN) - Transcription automatique gratuit mais limité jusqu'à 10 minutes d'audio ou de vidéo 
+- [Whisper Webui](https://huggingface.co/spaces/aadnk/whisper-webui) (EN) - Transcription automatique gratuit mais limité jusqu'à 10 minutes d'audio ou de vidéo
+- [mufidiwiwhi](https://github.com/ad-aures/mufidiwiwhi) - Transcription multi-intervenant avec fichiers séparés. Gratuit, open-source, en Python et basé sur Whisper (OpenAI)
 
 ## Outils pour faire de la (re)transcription écrite
 
